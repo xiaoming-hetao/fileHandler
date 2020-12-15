@@ -1,0 +1,27 @@
+{
+  "name": "filehandler",
+  "version": "1.0.0",
+  "description": "An easy use library for node.js",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoming-hetao/fileHandler.git"
+  },
+  "keywords": [
+    "fs",
+    "node.js"
+  ],
+  "author": "xiaoming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoming-hetao/fileHandler/issues"
+  },
+  "homepage": "https://github.com/xiaoming-hetao/fileHandler#readme"
+}
